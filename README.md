@@ -17,7 +17,8 @@
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="C#" width="50" height="50"/> </a> 
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Java" width="50" height="50"/> </a> 
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="HTML" width="50" height="50"/> </a> 
- 
+  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="HTML" width="50" height="50"/> </a> 
+  
 </p>
 
 
