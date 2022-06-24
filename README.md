@@ -2,6 +2,7 @@
 
 
 <p align="center">
+  Hello, my name is Sebastian and I'm a Computer Science student and absolute enthusiest when it comes to code and what it can do. I enjoy developing video games and exploring and learning about some of the newest technologies such as AI and VR.
   
   </p>
 
